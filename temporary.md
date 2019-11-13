@@ -6,5 +6,7 @@
 商学院  business college  
 费用/成本 cost  
 方式    way  
+线上    on line  
+线下    off line  
 
 
