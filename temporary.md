@@ -9,5 +9,5 @@
 线上    on line  
 线下    off line  
 学习计划   study plan  
-
+目标    target / aim
 
