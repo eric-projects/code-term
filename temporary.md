@@ -11,5 +11,5 @@
 学习计划   study plan  
 目标    target / aim  
 大纲    outline  
-
+原因    reason  
 
