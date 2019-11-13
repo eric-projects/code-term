@@ -5,4 +5,6 @@
 周期    period  
 商学院  business college  
 费用/成本 cost  
+方式    way  
+
 
